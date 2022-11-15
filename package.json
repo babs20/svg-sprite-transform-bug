@@ -1,0 +1,23 @@
+{
+	"name": "svg-sprite-transform-bug",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"default": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/babs20/svg-sprite-transform-bug.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/babs20/svg-sprite-transform-bug/issues"
+	},
+	"homepage": "https://github.com/babs20/svg-sprite-transform-bug#readme",
+	"dependencies": {
+		"svg-sprite": "^2.0.2"
+	}
+}
